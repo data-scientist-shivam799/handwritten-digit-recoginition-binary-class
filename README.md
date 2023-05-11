@@ -1,1 +1,3 @@
 # handwritten-digit-recoginition
+
+The handwritten digit recognition binary classification project in Python aims to correctly classify images of handwritten digits as either a '0' or a '1'. This can be done using machine learning algorithms such as logistic regression, decision trees, or neural networks. The project typically involves preparing a dataset of labeled images, splitting it into training and testing sets, and then training a model on the training data. The trained model can then be used to predict the labels of the test set images and evaluate its performance using metrics such as accuracy, precision, and recall. The final goal is to build a model that can accurately and efficiently classify handwritten digits as '0' or '1'.
